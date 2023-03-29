@@ -1,0 +1,6 @@
+O(1) //Constante
+O(log n) //Logaritmica
+O(n) // Lineal
+O(n^2) //Cuadrático
+O(2^n) //Exponencial
+O(n!) //Factorial
